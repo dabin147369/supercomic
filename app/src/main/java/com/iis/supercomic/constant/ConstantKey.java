@@ -5,4 +5,6 @@ package com.iis.supercomic.constant;
  */
 public interface ConstantKey {
     String APP_CODE = "appCode";
+
+    String CONTENT = "/content";
 }
